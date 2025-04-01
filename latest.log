@@ -1,0 +1,5 @@
+[20:42:24] [main/INFO]: ModLauncher running: args [--username, SilentWolf_, --version, neoforge-21.1.92, --gameDir, C:\Users\Zomba\curseforge\minecraft\Instances\MineColonies Official, --assetsDir, C:\Users\Zomba\curseforge\minecraft\Install\assets, --assetIndex, 17, --uuid, 2ac74cd53ede496595c3feaa77b44b6c, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, MjExYTMxYTctOGY0YS00ODAwLWJjOTMtZThiODVlYTM0MWI0, --xuid, 2535441732186645, --userType, msa, --versionType, release, --width, 1024, --height, 768, --quickPlayPath, C:\Users\Zomba\curseforge\minecraft\Install\quickPlay\java\1743532942188.json, --fml.neoForgeVersion, 21.1.92, --fml.fmlVersion, 4.0.34, --fml.mcVersion, 1.21.1, --fml.neoFormVersion, 20240808.144430, --launchTarget, forgeclient]
+[20:42:24] [main/INFO]: JVM identified as Microsoft OpenJDK 64-Bit Server VM 21.0.3+9-LTS
+[20:42:24] [main/INFO]: ModLauncher 11.0.4+main.d2e20e43 starting: java version 21.0.3 by Microsoft; OS Windows 11 arch amd64 version 10.0
+[20:42:24] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[20:42:25] [main/INFO]: Trying GL version 4.6
